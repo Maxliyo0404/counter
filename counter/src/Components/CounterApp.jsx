@@ -7,9 +7,11 @@ function CounterApp (){
         <>
         <div className="container">
           <h1 className="title">{count}</h1>
+          <div className="btn">
           <button className="inc" onClick={incCount}>Incrament</button>
           <button className="rest" onClick={() => setCount(0)}>Reset</button>
           <button className="dec" onClick={() => setCount(count - 1)}>Decrament</button>
+          </div>
           </div>
         </>
     )
