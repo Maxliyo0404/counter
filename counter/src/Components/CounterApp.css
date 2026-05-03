@@ -2,21 +2,22 @@
     max-width: 1200px;
     min-height: 100vh;
     margin:  0 auto;
-    background: slateblue;
+    background: blue;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    border-radius: 300px;
     
 }
 .title{
     padding: 2px 100px;
     border-radius: 30px;
-    background: skyblue;
+    background: rgb(203, 169, 237);
      border: 1px solid skyblue;
     font-size: 42px;
     &:hover{
-        transform: scale(1.2);
+        transform: scale(1.2) ;
         border: 1px solid skyblue;
         background: none;
         color: #fff;
@@ -27,11 +28,41 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    padding: 2px 100px;
+    margin-top: 50px;
+   
+}
+.inc{
+     padding: 9px 30px;
     border-radius: 30px;
     background: skyblue;
      border: 1px solid skyblue;
-    font-size: 42px;
+    font-size: 20px;
+    &:hover{
+        transform: scale(1.2);
+        border: 1px solid skyblue;
+        background: none;
+        color: #fff;
+}
+}
+.rest{
+     padding: 9px 30px;
+    border-radius: 30px;
+    background: red;
+     border: 1px solid red;
+    font-size: 20px;
+    &:hover{
+        transform: scale(1.2);
+        border: 1px solid skyblue;
+        background: none;
+        color: #fff;
+}
+}
+.dec{
+     padding: 9px 30px;
+    border-radius: 30px;
+    background: skyblue;
+     border: 1px solid skyblue;
+    font-size: 20px;
     &:hover{
         transform: scale(1.2);
         border: 1px solid skyblue;
