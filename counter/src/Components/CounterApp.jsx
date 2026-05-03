@@ -5,8 +5,8 @@ function CounterApp (){
     return (
         <>
           <h1>{count}</h1>
-          <button> onClick =>{()} </button>
+          <button> onClick={() => setCount} </button>
         </>
     )
 }
-export  default CounterApp;
+export  default CounterApp;(count +1)
