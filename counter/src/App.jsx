@@ -1,8 +1,9 @@
-function Counters (){
+
+function CounterApp (){
   return (
     <>
-    
+      <Counters/>
     </>
   )
 }
-export default Counters;
+export default CounterApp;
