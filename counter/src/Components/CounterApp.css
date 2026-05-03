@@ -6,9 +6,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align:center ;
     
 }
 .title{
     margin-bottom: 100px;
-    text-align:center ;
+    
+    
 }
