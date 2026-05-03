@@ -6,9 +6,9 @@ function CounterApp (){
     return (
         <>
           <h1>{count}</h1>
-          <button onClick={incCount}>Incrament</button>
-          <button onClick={() => setCount(0)}>Reset</button>
-          <button onClick={() => setCount(count - 1)}>Decrament</button>
+          <button className="inc" onClick={incCount}>Incrament</button>
+          <button className="rest" onClick={() => setCount(0)}>Reset</button>
+          <button className="dec" onClick={() => setCount(count - 1)}>Decrament</button>
         </>
     )
 }
