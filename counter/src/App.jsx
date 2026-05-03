@@ -1,9 +1,9 @@
-import Counter from
+import CounterApp from "../App";
 function CounterApp (){
-  return (
-    <>
-      <Counter/>
-    </>
-  )
+    return (
+        <>
+         <CounterApp/>
+        </>
+    )
 }
-export default CounterApp;
+export  default CounterApp;

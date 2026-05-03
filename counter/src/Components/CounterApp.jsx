@@ -1,8 +1,8 @@
-import CounterApp from "../App";
+import "CounterApp.css";
 function CounterApp (){
     return (
         <>
-         <CounterApp/>
+        
         </>
     )
 }
