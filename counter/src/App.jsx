@@ -1,8 +1,8 @@
-
+import Counter from
 function CounterApp (){
   return (
     <>
-      <Counters/>
+      <Counter/>
     </>
   )
 }
