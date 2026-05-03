@@ -1,9 +1,10 @@
-import CounterApp from "../App";
-function CounterApp (){
+import CounterApp from "./Components/CounterApp";
+import "./App.css";
+function App (){
     return (
         <>
          <CounterApp/>
         </>
     )
 }
-export  default CounterApp;
+export  default App;

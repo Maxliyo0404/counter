@@ -1,4 +1,4 @@
-import "CounterApp.css";
+import "./CounterApp.css";
 function CounterApp (){
     return (
         <>
