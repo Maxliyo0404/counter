@@ -1,4 +1,6 @@
 .container{
-    max-width: 100px;
+    max-width: 1200px;
+    min-height: auto;
     margin:  0 auto;
+    background: slateblue;
 }
