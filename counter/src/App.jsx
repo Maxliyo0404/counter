@@ -1,3 +1,8 @@
 function Counters (){
-  return
+  return (
+    <>
+    
+    </>
+  )
 }
+export default Counters;
