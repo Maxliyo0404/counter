@@ -4,9 +4,8 @@ function CounterApp (){
     const {count, setCount} = useState(0)
     return (
         <>
-          <div className="container">
-            
-          </div>
+          <h1>{count}</h1>
+          <button> onClick =>{()} </button>
         </>
     )
 }
