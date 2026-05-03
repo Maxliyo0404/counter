@@ -2,8 +2,8 @@ import CounterApp from "../App";
 function CounterApp (){
     return (
         <>
-        
+         <CounterApp/>
         </>
     )
 }
-export
+export  default CounterApp;
