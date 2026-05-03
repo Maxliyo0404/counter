@@ -1,2 +1,4 @@
 import CounterApp from "../App";
-function 
+function CounterApp (){
+    return
+}
