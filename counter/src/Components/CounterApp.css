@@ -1,13 +1,13 @@
 .container{
-    max-width: 1200px;
-    min-height: 100vh;
-    margin:  0 auto;
+    max-width: 600px;
+    min-height: 400px;
+    margin:  100px auto;
     background: blue;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    border-radius: 300px;
+    border-radius: 20px;
     
 }
 .title{
