@@ -1,6 +1,5 @@
 import "./Cards.css";
-function CardsApp (){
-    const Cards = ({a, b}) => 
+ CardsApp (){
     return (
         <>
         
