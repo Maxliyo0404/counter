@@ -8,4 +8,4 @@ const CardsApp = ({a, b}) =>{
         </>
     )
 }
-export default CardsApp(4, 5);
+export default CardsApp;
