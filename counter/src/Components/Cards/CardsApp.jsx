@@ -1,1 +1,1 @@
-import
+import "./Cards.css";
