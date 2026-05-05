@@ -3,7 +3,7 @@ const CardsApp ({a, b}) =>{
     return (
         <>
          <div className="card">
-            <h1></h1>
+            <h1> {a} + {b}   </h1>
          </div>
         </>
     )
