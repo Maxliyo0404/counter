@@ -1,5 +1,5 @@
 import "./Cards.css";
-const CardsApp ({a, b}) =>{
+const CardsApp = ({a, b}) =>{
     return (
         <>
          <div className="card">
