@@ -5,7 +5,7 @@ function App (){
     return (
         <>
          <CounterApp/>
-         <CounterApp/>
+         <CardsApp/>
 
         </>
     )
