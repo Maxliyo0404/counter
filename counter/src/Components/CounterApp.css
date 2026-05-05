@@ -49,6 +49,7 @@
     border-radius: 30px;
     background: red;
      border: 1px solid red;
+     color: #fff;
     font-size: 20px;
     &:hover{
         transform: scale(1.2);
