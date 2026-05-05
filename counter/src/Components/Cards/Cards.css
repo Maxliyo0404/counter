@@ -3,4 +3,7 @@
     max-height: 400px;
     background: gold;
     margin:  10px  auto 0;
+    display: flex;
+    align-items: center;
+    
 }
