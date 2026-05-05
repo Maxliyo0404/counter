@@ -1,4 +1,9 @@
 import "./Cards.css";
 function CardsApp (){
-    return
+    return (
+        <>
+        
+        </>
+    )
 }
+export default CardsApp;
